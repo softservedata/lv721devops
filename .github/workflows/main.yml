@@ -34,4 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           ls -al
+          MY=${{ secrets.MY_PASSWORD }}
+          echo "MY=$MY"
           #echo test, and deploy your project.
