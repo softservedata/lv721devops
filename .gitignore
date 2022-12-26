@@ -232,7 +232,7 @@ workspace.xml
 *.xpi
 
 # Ignore log
-# *.log
+#*.log
 *.log.[1234567890]
 
 # Ignore IntelliJ IDEA Config Files
@@ -243,6 +243,9 @@ workspace.xml
 # *.png
 *.jpg
 *.jpeg
+
+# Ignore PDF
+*.pdf
 
 # Ignore doc/notes.txt, but not doc/info/arch.txt
 # doc/*.txt
