@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo "Content" > ${{ secrets.MY_PASSWORD }}
+          ###echo "Content" > ${{ secrets.MY_PASSWORD }}
           ls -al
           MY=${{ secrets.MY_PASSWORD }}
           echo "MY=$MY"
