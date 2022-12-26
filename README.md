@@ -1,5 +1,7 @@
 # lv721devops
 
+![](https://github.com/softservedata/lv721devops/actions/workflows/main.yml/badge.svg)
+
 > This is repository of DevOpsCore group.
 
 ### List of branches
